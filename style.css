@@ -1,0 +1,35 @@
+body {
+    background: rgb(153,65,227);
+background: linear-gradient(0deg, rgba(153,65,227,1) 0%, rgba(229,192,255,1) 100%);
+}
+
+b {
+    color: rgb(128, 68, 170);
+}
+
+p {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#camera {
+    height: 175px;
+    width:  175px;
+    border: black;
+    border-style: dotted;
+}
+
+#result_object_accuracy {
+    font-size: 30px;
+    color: brown;
+    font-style: italic;
+}
+
+#result_object_name {
+    font-size: 30px;
+    color: brown;
+    font-style: italic;
+}
